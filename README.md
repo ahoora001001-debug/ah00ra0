@@ -1,4 +1,4 @@
-## Hi there 👋 I'm [Your Name]!
+## Hi there 👋 I'm AHOORA!
 
 🎉 I'm a passionate **developer** who loves coding, learning, and building awesome projects!  
 💻 I work with multiple languages and technologies, contribute to open-source, and enjoy solving problems.
