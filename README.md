@@ -42,4 +42,4 @@
 ### ⚡ Fun Fact
 I love **coffee ☕, coding 💻, and cats 🐱**!
 
-![Coding GIF](https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif)
+![Coding GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjBxaXNhZzBkbjJjZTZudnA3bnE5NTgxNWd0NXFnMmdoYnVqNDdhMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/10zxDv7Hv5RF9C/giphy.gif)
