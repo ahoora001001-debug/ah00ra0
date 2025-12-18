@@ -1,24 +1,51 @@
+# Hi! I'm a Passionate Developer 👋
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDMyYnBlNGQ1dmFrejhubnE5aDVqbGI2YjYwM21xYzJzenowM3R3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif" style="border-radius: 15px; filter: blur(1px);" width="1400px" height=300px" >
-</p>
+![Banner](https://source.unsplash.com/1200x400/?technology,code)
 
-
-
-## Hi there 👋 I'm AHOORA!
-
-🎉 I'm a passionate **developer** who loves coding, learning, and building awesome projects!  
-💻 I work with multiple languages and technologies, contribute to open-source, and enjoy solving problems.
+I'm a programmer and tech enthusiast interested in **cutting-edge technology, creative projects, and artificial intelligence**. 🚀  
+I love learning and building tools that make life simpler and more exciting.
 
 ---
 
-### 🔥 Languages & Technologies
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+## 💻 About Me
+
+- Developer with experience in **Python, JavaScript, HTML/CSS**  
+- Open Source enthusiast and creative project lover  
+- Interested in **AI, IoT, and modern web development**  
+- Always learning and exploring new things 🌱
+
+---
+
+## 🌟 Skills & Tools
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![php](https://img.shields.io/badge/php-00599C?style=for-the-badge&logo=php)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🚀 My Projects
+
+- [Project Sample 1](#) – A short description about the project  
+- [Project Sample 2](#) – A creative tool for simplifying tasks  
+- [Project Sample 3](#) – A project showing my learning journey  
+
+---
+
+## 📫 Contact Me
+
+- Email: your.email@example.com  
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/username)  
+- Twitter: [Twitter](https://twitter.com/username)  
+- GitHub: [GitHub](https://github.com/username)
+
+---
+
+![Coding GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+
+---
+
+> "Coding is like art; every line is a step toward creating something new." 🎨
